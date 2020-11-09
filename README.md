@@ -7,4 +7,4 @@ bamazonCustomer.js
   
   bamazonManager.js
     This part of the app should run to ask to see the inventory mock list created or able to add to the inventory once the node is run.
-      
+      <a href="https://imgur.com/4QhWM6f"><img src="https://i.imgur.com/4QhWM6f.jpg?1" title="source: imgur.com" /></a>
